@@ -63,7 +63,7 @@
 #permission-popup-menulist menupopup,
 #contentAreaContextMenu[showservicesmenu="true"],
 #contentAreaContextMenu[showservicesmenu="true"] menupopup {
-  --panel-background: var(--arrowpanel-background) !important;
+  --panel-background: var(--toolbar-field-background-color) !important;
   --panel-border-color: var(--toolbar-bgcolor) !important;
   --toolbar-field-focus-background-color: var(--toolbarbutton-icon-fill) !important;
   --panel-color: var(--toolbarbutton-icon-fill) !important;
@@ -196,7 +196,7 @@ findbar {
 }
 
 .urlbarView {
-    background: var(--arrowpanel-background) !important;
+    background: var(--toolbar-field-background-color) !important;
     border-radius: 5px;
 }
 

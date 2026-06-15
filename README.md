@@ -1,10 +1,6 @@
 # ❄️ scifox
-A Minimalist Firefox userStyle
-
-> # I switched to Helium (Sorry Guys!) if anyone revives this do let me know, I'll be using that and make firefox my secondary brouser.
-
-> I had been using a more immersive version of this config which is on the [immersive](https://github.com/scientiac/scifox/tree/immersive) branch.
-> You can clone it by: `git clone -b immersive https://github.com/scientiac/scifox`
+A Minimalist Firefox userStyle. The original repo was archived. I'm maintaining this fork
+for personal use.
 
 ## Screenshots
 
