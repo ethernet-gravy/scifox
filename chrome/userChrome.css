@@ -254,8 +254,6 @@ toolbarbutton.bookmark-item:not(.subviewbutton) {
 #pageActionButton,
 #pageActionSeparator,
 #tabs-newtab-button,
-#back-button,
-#forward-button,
 .tab-secondary-label {
   display: none !important;
 }
